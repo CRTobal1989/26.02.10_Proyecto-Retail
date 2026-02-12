@@ -24,7 +24,7 @@ pip install -r requirements.txt
 5. Despliega la app con Streamlit desde la carpeta `app`.
 
 ## Autor
-- [Tu Nombre]
+- Cristóbal León-Salas Bujalamce
 
 ---
 
